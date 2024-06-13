@@ -23,7 +23,10 @@ Used to determine what sessions need to be ran. This will provide a list of sess
 It also will determine which sessions need to be run for miniscope video quality checks.
 These sessions should be ran using the following MatLab code developed by Branden Clark (Branden99clark@gmail.com), hbug_052622_txt_file_batch.mlx
 have an error in any frames of the recorded miniscope video where the are horizontal noise lines in the image, as seen below (I commonly refer to this bug as 'hbug').
-*insert image*
+
+![hbug_ex](https://github.com/aozgur360/neural-activity-preprocessing/assets/77759136/48b7466b-03e4-47a9-a686-e49c7eeb934d)
+
+![Capture](https://github.com/aozgur360/neural-activity-preprocessing/assets/77759136/68b3c9cd-0273-4cdf-85ce-e6e47b45b31f)
 
 get_spikerate:
 Used to get spikerate file when desired, instead of the output of only the raw calcium traces.
