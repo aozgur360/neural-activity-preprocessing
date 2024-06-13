@@ -33,5 +33,6 @@ Used to get spikerate file when desired, instead of the output of only the raw c
 
 graph_spikerate_and_rawcalcium:
 Used to visualize the differences in calcium traces between raw calcium and spikerate.
-*insert image*
+![rawcal_spike_comparison_ex](https://github.com/aozgur360/neural-activity-preprocessing/assets/77759136/5cae5557-96d1-4c57-8eeb-d4283453cdc5)
+
 
